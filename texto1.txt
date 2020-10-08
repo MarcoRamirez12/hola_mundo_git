@@ -1,0 +1,2 @@
+este es otro archivo de texto
+el cual si voy a poder recuperar
